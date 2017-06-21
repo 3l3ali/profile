@@ -1,0 +1,109 @@
+/* Here goes your CSS */
+h1 {
+  color :#E63030;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 23px;
+}
+h2 {
+  color :#E63030;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 19px;
+}
+
+h3 {
+  color :##9B9B9B;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 18px;
+}
+
+body {
+  font-size:15px;
+  color: #5F5F5F;
+  font-family: 'Open Sans', sans-serif;
+  background-image: url("../images/soft_kill.png");
+}
+
+ul {
+  padding-left: 0px;
+}
+
+.list-inline {
+  list-style: none;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+tr {
+  height:180px;
+}
+
+a {
+  color:#5F5F5F;
+  text-decoration: none;
+  font-size: 18px;
+  width: 1080px;
+  margin: 0px auto;
+}
+
+.fa {
+  font-size: 35px;
+}
+
+a:hover {
+  color:#DE3737;
+}
+
+.but-red {
+  color:#ECEBCE;
+  font-size: 16;
+  padding: 4px 13px;
+  background-color: #EC4A4A;
+  border-radius: 7px;
+}
+.but-red:hover{
+  color:#ECEBCE;
+  background-color: #E31A1A;
+}
+
+.img-size{
+  height: 165px;
+  width: 165px;
+}
+
+#avatar-img {
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+  border: 3px solid #cccccc;
+  box-shadow: 1px 1px 3px #FF6060;
+}
+
+table{
+  width: 700px;
+  margin: 0 auto;
+}
+
+tr {
+  height: 185px;
+  line-height: 40px;
+}
+.card {
+  border-radius: 10px;
+  background-color: #E3E3E3;
+  width: 1080px;
+  margin: 20px auto;
+  box-shadow: 2px 2px 3px #FF2727;
+  padding: 15px 0px 15px 0px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.copyright {
+  font-size: 15px;
+}
